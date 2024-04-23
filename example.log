@@ -1,0 +1,9 @@
+2024-04-22 10:00: INFO - Application started
+2024-04-22 10:05: ERROR - Database connection failed
+2024-04-22 10:10: WARNING - Disk space low
+2024-04-22 10:15: INFO - User logged in
+2024-04-22 10:20: DEBUG - Processing data
+2024-04-22 10:25: ERROR - Exception caught in function A
+2024-04-22 10:30: WARNING - Network connection unstable
+2024-04-22 10:35: ERROR - Timeout error
+
